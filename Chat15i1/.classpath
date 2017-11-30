@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Chat15i1/src"/>
+	<classpathentry kind="lib" path="Chat15i1/libs/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="Chat15i1/libs/java-json.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Chat15i1/build/classes"/>
+</classpath>
